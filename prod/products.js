@@ -39,8 +39,6 @@ function searchProducts() {
 function generateView(product) {
     var stock = product.stock;
 
-
-
     var html = "";
     html += '<div class="u-align-center u-container-style u-products-item u-repeater-item">';
     html += '<div class="u-container-layout u-similar-container u-valign-top-lg u-valign-top-md u-valign-top-sm u-valign-top-xl u-container-layout-1">';
@@ -50,17 +48,18 @@ function generateView(product) {
     html += '<h4 class="u-align-left u-product-control u-text u-text-3">';
     html += '<a title="' + product.name + '" class="u-product-title-link">' + product.name + '</a>';
     html += '</h4>';
-    html += '<div class="u-align-left u-product-control u-product-desc u-text u-text-4">' + product.company + '</div>';
-    //html += '<div class="u-align-left u-product-control u-product-price u-product-price-1">';
-    //html += '<div class="u-price-wrapper u-spacing-10">';
+    html += '<div class="u-align-left u-product-control u-product-desc u-text u-text-00">Company: ' + product.company + '</div>';
+    html += '<div class="u-align-left u-product-control u-product-desc u-text u-text-00">Categoty: ' + camelCase(product.category) + '</div>';
+    //html += '<div class="u-align-left u-product-control u-product-price u-product-price-1"></div>';
+    //html += '<div class="u-price-wrapper u-spacing-10"></div>';
 
     if(stock && stock == 'yes') {
-        html += '<div class="u-align-left u-product-control u-product-desc u-text u-text-4" style="color: green;">Stock available</div>';
+        html += '<div class="u-align-left u-product-control u-product-desc u-text u-text-00" style="color: green;font-weight: bold;">Stock available</div>';
     } else if(stock && stock == 'no') {
-        html += '<div class="u-align-left u-product-control u-product-desc u-text u-text-4" style="color: red;">Out of stock</div>';
+        html += '<div class="u-align-left u-product-control u-product-desc u-text u-text-00" style="color: red;font-weight: bold;">Out of stock</div>';
     }
 
-    html += '<div class="u-align-left u-product-control u-product-desc u-text u-text-4">Price: ' + product.cash_price + ' / ' + product.unit + '</div>';
+    html += '<div class="u-align-left u-product-control u-product-desc u-text u-text-00">Price: ' + product.cash_price + ' / ' + product.unit + '</div>';
     //html += '</div>';
    //html += '</div>';
     html += '</div>';
@@ -68,6 +67,16 @@ function generateView(product) {
     html += '</div>';
     html += '</div>';
     return html;
+}
+
+function camelCase(str) {
+    if(!str) {
+        return str;
+    }
+
+    return str.replace(/(?:^\w|[A-Z]|\b\w)/g, function (word, index) {
+        return index == 0 ? word.toUpperCase() : word.toLowerCase();
+    }).replace(/\s+/g, '');
 }
 
 var products = [
