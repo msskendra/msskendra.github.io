@@ -43,7 +43,7 @@ function generateView(product) {
     html += '<div class="u-align-center u-container-style u-products-item u-repeater-item">';
     html += '<div class="u-container-layout u-similar-container u-valign-top-lg u-valign-top-md u-valign-top-sm u-valign-top-xl u-container-layout-1">';
     html += '<img alt="" class="u-expanded-width-xs u-image u-image-contain u-image-default u-product-control u-image-1" src="./prod/images/' + product.image + '">';
-    html += '<div class="u-container-style u-grey-10 u-group u-group-1">';
+    html += '<div class="u-container-style u-group u-group-1">';
     html += '<div class="u-container-layout u-container-layout-2">';
     html += '<h4 class="u-align-left u-product-control u-text u-text-3">';
     html += '<a title="' + product.name + '" class="u-product-title-link">' + product.name + '</a>';
