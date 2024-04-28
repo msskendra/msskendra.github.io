@@ -394,5 +394,18 @@ var products = [
         "unit": "Unit",
         "image": "adama-products.png",
         "search_term": "benmain 500 grmadama  india ltdfungicide"
+    },
+      {
+        "code": "M00025",
+        "name": "AGADI 5KG",
+        "company": "ADAMA  INDIA LTD",
+        "category": "INSECTICIDE",
+        "desc": "",
+        "stock": "yes",
+        "cash_price": "330",
+        "credit_price": "",
+        "unit": "Unit",
+        "image": "agadi-5kg.jpg",
+        "search_term": "agadi 5kg insectside"
     }
 ];
