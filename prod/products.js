@@ -1,3 +1,6 @@
+/**
+Mahalaxmi Sheti Seva Kendra
+*/
 
 $(document).ready(function () {
     renderProducts(products);
