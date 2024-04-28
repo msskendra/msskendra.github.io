@@ -395,7 +395,7 @@ var products = [
         "image": "adama-products.png",
         "search_term": "benmain 500 grmadama  india ltdfungicide"
     },
-      {
+    {
         "code": "M00025",
         "name": "AGADI 5KG",
         "company": "ADAMA  INDIA LTD",
