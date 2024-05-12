@@ -407,5 +407,18 @@ var products = [
         "unit": "Unit",
         "image": "agadi-5kg.jpg",
         "search_term": "agadi 5kg insectside"
+    },
+    {
+        "code": "M00026",
+        "name": "12:61:0 (1kg)",
+        "company": "Mahadhan Agrotech Ltd",
+        "category": "Fertilizer",
+        "desc": "",
+        "stock": "yes",
+        "cash_price": "",
+        "credit_price": "",
+        "unit": "Unit",
+        "image": "mahadhan-12-61-0.PNG",
+        "search_term": "12600 mahadhan fertilizer"
     }
 ];
