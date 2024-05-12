@@ -418,7 +418,20 @@ var products = [
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "mahadhan-12-61-0.PNG",
+        "image": "mahadhan-12-61-0.png",
         "search_term": "12600 mahadhan fertilizer"
+    },
+    {
+        "code": "M00027",
+        "name": "Kizin (Metribuzan 70 wp)",
+        "company": "KRISHI RASAYAN P.LTD",
+        "category": "HERBICIDE",
+        "desc": "",
+        "stock": "yes",
+        "cash_price": "",
+        "credit_price": "",
+        "unit": "Unit",
+        "image": "krizin-metribuzin-70.png",
+        "search_term": "krizin metribuzan krishi rasayan"
     }
 ];
