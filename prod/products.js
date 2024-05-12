@@ -423,7 +423,7 @@ var products = [
     },
     {
         "code": "M00027",
-        "name": "Kizin (Metribuzan 70 wp)",
+        "name": "Krizin (Metribuzan 70 wp)",
         "company": "KRISHI RASAYAN P.LTD",
         "category": "HERBICIDE",
         "desc": "",
