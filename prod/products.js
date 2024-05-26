@@ -8,6 +8,10 @@ $(document).ready(function () {
     $('#search-box').keyup(function () { 
         searchProducts();
     });
+
+    $('#main_logo').click(function () {
+        location.reload();
+    });
 });
 
 function renderProducts(items) {
