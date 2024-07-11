@@ -440,7 +440,7 @@ var products = [
     }, 
     {
         "code": "M00028",
-        "name": "spic cytoz 500ml",
+        "name": "spic scytoz 500ml",
         "company": "SPIC LTD",
         "category": "Fertilizer",
         "desc": "",
@@ -464,4 +464,17 @@ var products = [
         "image": "atul-cyno-15gm.png",
         "search_term": "atul cyno 15gm atul ltdpesticide"
     } 
+     {
+        "code": "M00030",
+        "name": "tata metri 100gm",
+        "company": "RALLIS INDIA LTD",
+        "category": "Herbicide",
+        "desc": "",
+        "stock": "yes",
+        "cash_price": "",
+        "credit_price": "",
+        "unit": "Unit",
+        "image": "tata-metri-100gm.png",
+        "search_term": "tata metri 100gm tata ltdherbicide"
+    }
     ];
