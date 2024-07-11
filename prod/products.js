@@ -450,7 +450,7 @@ var products = [
         "unit": "Unit",
         "image": "spic-cytoz-500ml.jpg",
         "search_term": "spic cytoz 500ml spic ltdfertilizer"
-    }
+    },
     {
         "code": "M00029",
         "name": "ATUL CYNO 15GM",
@@ -463,7 +463,7 @@ var products = [
         "unit": "Unit",
         "image": "atul-cyno-15gm.png",
         "search_term": "atul cyno 15gm atul ltdpesticide"
-    } 
+    },
     {
        "code": "M00030",
        "name": "tata metri 100gm",
