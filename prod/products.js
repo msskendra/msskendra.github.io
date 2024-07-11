@@ -440,7 +440,7 @@ var products = [
     }, 
     {
         "code": "M00028",
-        "name": "SPIC CYTOZ 500ml",
+        "name": "spic cytoz 500ml",
         "company": "SPIC LTD",
         "category": "Fertilizer",
         "desc": "",
@@ -450,5 +450,6 @@ var products = [
         "unit": "Unit",
         "image": "spic-cytoz-500ml.jpg",
         "search_term": "spic cytoz 500ml spic ltdfertilizer"
-      }, 
+    }
+    ];
      
