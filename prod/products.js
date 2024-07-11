@@ -490,4 +490,17 @@ var products = [
        "image": "tata-enzip-200ml.png",
        "search_term": "tata metri 200ml tata ltdherbicide"
     },
+    {
+       "code": "M00031",
+       "name": "tata contaf 100ml",
+       "company": "RALLIS INDIA LTD",
+       "category": "Fungicide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "tata-contaf-100ml.png",
+       "search_term": "tata contaf 100ml tata ltdherbicide"
+    },
     ];
