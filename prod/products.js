@@ -476,5 +476,18 @@ var products = [
        "unit": "Unit",
        "image": "tata-metri-100gm.png",
        "search_term": "tata metri 100gm tata ltdherbicide"
-    
+    },
+    {
+       "code": "M00031",
+       "name": "tata enzip 200ml",
+       "company": "RALLIS INDIA LTD",
+       "category": "Herbicide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "tata-enzip-200ml.png",
+       "search_term": "tata metri 200ml tata ltdherbicide"
+    },
     ];
