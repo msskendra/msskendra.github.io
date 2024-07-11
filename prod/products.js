@@ -115,7 +115,7 @@ var products = [
     },
     {
         "code": "M00003",
-        "name": "2-4-D 1L ZUARA",
+        "name": "2-4-D 1L ZURA",
         "company": "ATUL LTD",
         "category": "HERBICIDE",
         "desc": "",
