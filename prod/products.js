@@ -476,5 +476,5 @@ var products = [
        "unit": "Unit",
        "image": "tata-metri-100gm.png",
        "search_term": "tata metri 100gm tata ltdherbicide"
-    },
+    
     ];
