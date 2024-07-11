@@ -451,5 +451,17 @@ var products = [
         "image": "spic-cytoz-500ml.jpg",
         "search_term": "spic cytoz 500ml spic ltdfertilizer"
     }
+    {
+        "code": "M00029",
+        "name": "ATUL CYNO 15GM",
+        "company": "ATUL LTD",
+        "category": "Pesticide",
+        "desc": "",
+        "stock": "yes",
+        "cash_price": "",
+        "credit_price": "",
+        "unit": "Unit",
+        "image": "atul-cyno-15gm.png",
+        "search_term": "atul cyno 15gm atul ltdpesticide"
+    } 
     ];
-     
