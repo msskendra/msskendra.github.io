@@ -437,5 +437,18 @@ var products = [
         "unit": "Unit",
         "image": "krizin-metribuzin-70.png",
         "search_term": "krizin metribuzan krishi rasayan"
-    }
-];
+    }, 
+    {
+        "code": "M00028",
+        "name": "SPIC CYTOZ 500ml",
+        "company": "SPIC LTD",
+        "category": "Fertilizer",
+        "desc": "",
+        "stock": "yes",
+        "cash_price": "",
+        "credit_price": "",
+        "unit": "Unit",
+        "image": "spic-cytoz-500ml.jpg",
+        "search_term": "spic cytoz 500ml spic ltdfertilizer"
+      }, 
+     
