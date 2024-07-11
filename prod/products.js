@@ -464,17 +464,17 @@ var products = [
         "image": "atul-cyno-15gm.png",
         "search_term": "atul cyno 15gm atul ltdpesticide"
     } 
-     {
-        "code": "M00030",
-        "name": "tata metri 100gm",
-        "company": "RALLIS INDIA LTD",
-        "category": "Herbicide",
-        "desc": "",
-        "stock": "yes",
-        "cash_price": "",
-        "credit_price": "",
-        "unit": "Unit",
-        "image": "tata-metri-100gm.png",
-        "search_term": "tata metri 100gm tata ltdherbicide"
+    {
+       "code": "M00030",
+       "name": "tata metri 100gm",
+       "company": "RALLIS INDIA LTD",
+       "category": "Herbicide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "tata-metri-100gm.png",
+       "search_term": "tata metri 100gm tata ltdherbicide"
     }
     ];
