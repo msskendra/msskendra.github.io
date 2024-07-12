@@ -297,29 +297,29 @@ var products = [
     },
     {
         "code": "M00017",
-        "name": "ANTH-50 250 ML [CHLOROPYRIPHOS 50%EC]",
-        "company": "KRISHI RASAYAN P.LTD",
+        "name": "ANTH-50 250ML [CHLOROPYRIPHOS 50%EC]",
+        "company": "KRISHI RASAYAN LTD",
         "category": "INSECTICIDE",
         "desc": "",
         "stock": "yes",
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "krishi-rasayan.png",
-        "search_term": "anth-50 250 ml [chloropyriphos 50%ec]krishi rasayan p.ltdinsecticide"
+        "image": "anth-50.png",
+        "search_term": "anth-50 250ml [chloropyriphos 50%ec]krishi rasayan p.ltdinsecticide"
     },
     {
         "code": "M00018",
-        "name": "ANTH-50 500ML[CHLOROPYRIPHOS 50% EC]",
-        "company": "KRISHI RASAYAN P.LTD",
+        "name": "ANTH-50 500ML[CHLOROPYRIPHOS 50%EC]",
+        "company": "KRISHI RASAYAN LTD",
         "category": "INSECTICIDE",
         "desc": "",
         "stock": "yes",
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "krishi-rasayan.png",
-        "search_term": "anth-50 500ml[chloropyriphos 50% ec]krishi rasayan p.ltdinsecticide"
+        "image": "anth-50.png",
+        "search_term": "anth-50 500ml [chloropyriphos 50%ec]krishi rasayan p.ltdinsecticide"
     },
     {
         "code": "M00019",
