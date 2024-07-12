@@ -414,16 +414,16 @@ var products = [
     },
     {
         "code": "M00026",
-        "name": "12:61:0 (1kg)",
-        "company": "Mahadhan Agrotech Ltd",
+        "name": "MAHADHAN 12:61:0 (1kg)",
+        "company": "MAHADHAN AGROTECH LTD",
         "category": "Fertilizer",
         "desc": "",
         "stock": "yes",
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "mahadhan-12-61-0.png",
-        "search_term": "12600 mahadhan fertilizer"
+        "image": "mahadhan-12-61-00.png",
+        "search_term": "126100 mahadhan agrotech ltd fertilizer"
     },
     {
         "code": "M00027",
@@ -606,5 +606,18 @@ var products = [
        "unit": "Unit",
        "image": "adama-tamar.png",
        "search_term": "adama tamer 250kg adama india ltdherbicide"
+    },
+    {
+       "code": "M00038",
+       "name": "MAHADHAN 13:40:13 (1KG)",
+       "company": "MAHADHAN AGROTECH LTD",
+       "category": "Fertilizer",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "mahadhan-13-40-13.png",
+       "search_term": "mahadhan 13:40:13 mahadhan agrotech ltdherbicide"
     }
 ];
