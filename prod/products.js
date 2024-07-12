@@ -136,7 +136,7 @@ var products = [
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "adama-paranex",
+        "image": "adama-paranex.png",
         "search_term": "adama paranex 1L adama ltdherbicide"
     },
     {
