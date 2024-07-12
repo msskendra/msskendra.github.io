@@ -370,7 +370,7 @@ var products = [
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "adama-products.png",
+        "image": "adama-benmain.png",
         "search_term": "benmain 100gmadama  india ltdfungicide"
     },
     {
@@ -383,7 +383,7 @@ var products = [
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "adama-products.png",
+        "image": "adama-benmain.png",
         "search_term": "benmain 250gmadama  india ltdfungicide"
     },
     {
@@ -396,7 +396,7 @@ var products = [
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "adama-products.png",
+        "image": "adama-benmain.png",
         "search_term": "benmain 500 grmadama  india ltdfungicide"
     },
     {
