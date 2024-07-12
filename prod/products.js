@@ -528,5 +528,18 @@ var products = [
        "unit": "Unit",
        "image": "adama-paranex.png",
        "search_term": "adama paranex 500ml adama ltdherbicide"
+    },
+    {
+       "code": "M00034",
+       "name": "atul plasto",
+       "company": "ATUL LTD",
+       "category": "Herbicide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "atul-plasto.png",
+       "search_term": "atul plasto atul ltdherbicide"
     }
 ];
