@@ -427,16 +427,16 @@ var products = [
     },
     {
         "code": "M00027",
-        "name": "Krizin (Metribuzan 70 wp)",
-        "company": "KRISHI RASAYAN P.LTD",
+        "name": "Krizin (Metribuzan 70%wp)",
+        "company": "KRISHI RASAYAN LTD",
         "category": "HERBICIDE",
         "desc": "",
         "stock": "yes",
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "krizin-metribuzin-70.png",
-        "search_term": "krizin metribuzan krishi rasayan"
+        "image": "krizin.png",
+        "search_term": "krizin metribuzan krishi rasayan ltdherbicide"
     }, 
     {
         "code": "M00028",
@@ -546,13 +546,13 @@ var products = [
        "code": "M00035",
        "name": "ANTH-505 500ml (CHORO50% + CYPER5%)",
        "company": "KRISHI RASAYAN LTD",
-       "category": "Herbicide",
+       "category": "Insecticide",
        "desc": "",
        "stock": "yes",
        "cash_price": "",
        "credit_price": "",
        "unit": "Unit",
        "image": "anth-505.png",
-       "search_term": "anth-505 500ml (choro50% + cyper5% ) krishi rasayan ltdherbicide"
+       "search_term": "anth-505 500ml (choro50% + cyper5%) krishi rasayan ltdherbicide"
     } 
 ];
