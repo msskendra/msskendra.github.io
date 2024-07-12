@@ -128,16 +128,16 @@ var products = [
     },
     {
         "code": "M00004",
-        "name": "2-4-D  1 L ZURA ",
-        "company": "ATUL LTD",
+        "name": "paranex-1L",
+        "company": "ADAMA LTD",
         "category": "HERBICIDE",
         "desc": "",
         "stock": "yes",
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "atul-zura.png",
-        "search_term": "2-4-d  1 l zura atul ltdherbicide"
+        "image": "adama-paranex",
+        "search_term": "paranex 1L adama ltdherbicide"
     },
     {
         "code": "M00005",
