@@ -529,4 +529,4 @@ var products = [
        "image": "adama-paranex",
        "search_term": "adama paranex 500ml adama ltdherbicide"
     }
-    ];
+];
