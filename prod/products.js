@@ -102,7 +102,7 @@ var products = [
     },
     {
         "code": "M00002",
-        "name": "2-4-D  1LTR",
+        "name": "2-4-D 1LTR",
         "company": "KRISHI RASAYAN P.LTD",
         "category": "HERBICIDE",
         "desc": "",
@@ -123,7 +123,7 @@ var products = [
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "2-4-d-atul.jpeg",
+        "image": "atul-zura.png",
         "search_term": "2-4-d 1l zuaraatul ltdherbicide"
     },
     {
@@ -136,7 +136,7 @@ var products = [
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "2-4-d-atul.jpeg",
+        "image": "atul-zura.png",
         "search_term": "2-4-d  1 l zura atul ltdherbicide"
     },
     {
@@ -149,7 +149,7 @@ var products = [
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "2-4-d-adama.jpeg",
+        "image": "adama-2-4-D-Main-1L.png",
         "search_term": "2-4-d 250ml main adama  india ltdherbicide"
     },
     {
@@ -162,7 +162,7 @@ var products = [
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "2-4-d-atul.jpeg",
+        "image": "atul-zura.png",
         "search_term": "2.4.d 250 ml zura  atul ltdherbicide"
     },
     {
@@ -175,7 +175,7 @@ var products = [
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "2-4-d-adama.jpeg",
+        "image": "adama-2-4-D-Main-1L.png",
         "search_term": "2-4-d 400ml main adama  india ltdherbicide"
     },
     {
