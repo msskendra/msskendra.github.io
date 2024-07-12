@@ -570,7 +570,7 @@ var products = [
     },
     {
        "code": "M00037",
-       "name": "ADAMA TAMER",
+       "name": "ADAMA TAMER 1KG",
        "company": "ADAMA INDIA LTD",
        "category": "Herbicide",
        "desc": "",
@@ -579,6 +579,32 @@ var products = [
        "credit_price": "",
        "unit": "Unit",
        "image": "adama-tamer.png",
-       "search_term": "adama tamer adama india ltdherbicide"
+       "search_term": "adama tamer 1kg adama india ltdherbicide"
+    },
+    {
+       "code": "M00037",
+       "name": "ADAMA TAMER 500KG",
+       "company": "ADAMA INDIA LTD",
+       "category": "Herbicide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "adama-tamer.png",
+       "search_term": "adama tamer 500kg adama india ltdherbicide"
+    },
+    {
+       "code": "M00037",
+       "name": "ADAMA TAMER 250KG",
+       "company": "ADAMA INDIA LTD",
+       "category": "Herbicide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "adama-tamer.png",
+       "search_term": "adama tamer 250kg adama india ltdherbicide"
     }
 ];
