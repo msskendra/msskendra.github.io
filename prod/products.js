@@ -227,7 +227,7 @@ var products = [
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "agadi 1kg.png",
+        "image": "agadi-1kg.png",
         "search_term": "agadi 1kgadama  india ltdpesticide"
     },
     {
