@@ -323,29 +323,29 @@ var products = [
     },
     {
         "code": "M00019",
-        "name": "Anth-505 100 Ml (Chloropyriphos 50% Ec)",
-        "company": "KRISHI RASAYAN P.LTD",
+        "name": "Anth-505 100Ml (CHORO50% + CYPER5%)",
+        "company": "KRISHI RASAYAN LTD",
         "category": "INSECTICIDE",
         "desc": "",
         "stock": "yes",
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "krishi-rasayan.png",
-        "search_term": "anth-505 100 ml (chloropyriphos 50% ec)krishi rasayan p.ltdinsecticide"
+        "image": "anth-505.png",
+        "search_term": "anth-505 100ml (choro50% + cyper5%)krishi rasayan ltdinsecticide"
     },
     {
         "code": "M00020",
-        "name": "ANTH 505 1LTR (CHORO50% + CYPER 5%)",
-        "company": "KRISHI RASAYAN P.LTD",
+        "name": "ANTH-505 1L (CHORO50% + CYPER5%)",
+        "company": "KRISHI RASAYAN LTD",
         "category": "INSECTICIDE",
         "desc": "",
         "stock": "yes",
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "krishi-rasayan.png",
-        "search_term": "anth 505 1ltr (choro50% + cyper 5%)krishi rasayan p.ltdinsecticide"
+        "image": "anth-505.png",
+        "search_term": "anth 505 1l (choro50% + cyper5%)krishi rasayan ltdinsecticide"
     },
     {
         "code": "M00021",
@@ -541,5 +541,18 @@ var products = [
        "unit": "Unit",
        "image": "atul-plasto.png",
        "search_term": "atul plasto atul ltdherbicide"
-    }
+    },
+    {
+       "code": "M00035",
+       "name": "ANTH-505 500ml (CHORO50% + CYPER5%)",
+       "company": "KRISHI RASAYAN LTD",
+       "category": "Herbicide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "anth-505.png",
+       "search_term": "anth-505 500ml (choro50% + cyper5% ) krishi rasayan ltdherbicide"
+    } 
 ];
