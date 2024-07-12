@@ -180,7 +180,7 @@ var products = [
     },
     {
         "code": "M00008",
-        "name": "2.4D 500 GRAM POWDER SALIX",
+        "name": "2-4D 500 GRAM POWDER SALIX",
         "company": "ATUL LTD",
         "category": "HERBICIDE",
         "desc": "",
@@ -188,8 +188,8 @@ var products = [
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "2-4-d-atul.jpeg",
-        "search_term": "2.4d 500 gram powder salixatul ltdherbicide"
+        "image": "atul-salix.png",
+        "search_term": "2-4d 500 gram powder salixatul ltdherbicide"
     },
     {
         "code": "M00009",
