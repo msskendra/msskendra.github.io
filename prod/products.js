@@ -513,7 +513,7 @@ var products = [
        "cash_price": "",
        "credit_price": "",
        "unit": "Unit",
-       "image": "adama-paranex",
+       "image": "adama-paranex.png",
        "search_term": "adama paranex 250ml adama ltdherbicide"
     },
     {
@@ -526,7 +526,7 @@ var products = [
        "cash_price": "",
        "credit_price": "",
        "unit": "Unit",
-       "image": "adama-paranex",
+       "image": "adama-paranex.png",
        "search_term": "adama paranex 500ml adama ltdherbicide"
     }
 ];
