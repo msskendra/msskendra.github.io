@@ -502,5 +502,31 @@ var products = [
        "unit": "Unit",
        "image": "tata-contaf-100ml.png",
        "search_term": "tata contaf 100ml tata ltdherbicide"
+    },
+    {
+       "code": "M00032",
+       "name": "adama paranex 250ml",
+       "company": "ADAMA INDIA LTD",
+       "category": "Herbicide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "adama-paranex",
+       "search_term": "adama paranex 250ml adama ltdherbicide"
+    },
+    {
+       "code": "M00033",
+       "name": "adama paranex 500ml",
+       "company": "ADAMA INDIA LTD",
+       "category": "Herbicide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "adama-paranex",
+       "search_term": "adama paranex 500ml adama ltdherbicide"
     }
     ];
