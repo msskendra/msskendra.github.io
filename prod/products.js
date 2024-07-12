@@ -128,7 +128,7 @@ var products = [
     },
     {
         "code": "M00004",
-        "name": "paranex-1L",
+        "name": "adama paranex 1L",
         "company": "ADAMA LTD",
         "category": "HERBICIDE",
         "desc": "",
@@ -137,7 +137,7 @@ var products = [
         "credit_price": "",
         "unit": "Unit",
         "image": "adama-paranex",
-        "search_term": "paranex 1L adama ltdherbicide"
+        "search_term": "adama paranex 1L adama ltdherbicide"
     },
     {
         "code": "M00005",
