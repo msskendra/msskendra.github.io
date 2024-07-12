@@ -448,7 +448,7 @@ var products = [
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "spic-cytoz-500ml.jpg",
+        "image": "spic-cytoz.png",
         "search_term": "spic cytoz 500ml spic ltdfertilizer"
     },
     {
@@ -554,5 +554,31 @@ var products = [
        "unit": "Unit",
        "image": "anth-505.png",
        "search_term": "anth-505 500ml (choro50% + cyper5%) krishi rasayan ltdherbicide"
-    } 
+    },
+    {
+       "code": "M00036",
+       "name": "ADAMA DIUREX",
+       "company": "ADAMA INDIA LTD",
+       "category": "Herbicide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "adama-diurex.png",
+       "search_term": "adama diurex adama india ltdherbicide"
+    },
+    {
+       "code": "M00037",
+       "name": "ADAMA TAMER",
+       "company": "ADAMA INDIA LTD",
+       "category": "Herbicide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "adama-tamer.png",
+       "search_term": "adama tamer adama india ltdherbicide"
+    }
 ];
