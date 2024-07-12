@@ -97,7 +97,7 @@ var products = [
         "cash_price": "34",
         "credit_price": "",
         "unit": "Unit",
-        "image": "ADAMA 2-4-D MAIN 1L.png",
+        "image": "adama-2-4-D-MAIN-1L.png",
         "search_term": "2-4-d 1l main adama india ltdherbicide"
     },
     {
