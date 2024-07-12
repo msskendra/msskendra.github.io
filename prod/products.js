@@ -578,7 +578,7 @@ var products = [
        "cash_price": "",
        "credit_price": "",
        "unit": "Unit",
-       "image": "adama-tamer.png",
+       "image": "adama-tamar.png",
        "search_term": "adama tamer 1kg adama india ltdherbicide"
     },
     {
@@ -591,7 +591,7 @@ var products = [
        "cash_price": "",
        "credit_price": "",
        "unit": "Unit",
-       "image": "adama-tamer.png",
+       "image": "adama-tamar.png",
        "search_term": "adama tamer 500kg adama india ltdherbicide"
     },
     {
@@ -604,7 +604,7 @@ var products = [
        "cash_price": "",
        "credit_price": "",
        "unit": "Unit",
-       "image": "adama-tamer.png",
+       "image": "adama-tamar.png",
        "search_term": "adama tamer 250kg adama india ltdherbicide"
     }
 ];
