@@ -617,7 +617,7 @@ var products = [
        "cash_price": "",
        "credit_price": "",
        "unit": "Unit",
-       "image": "mahadhan-13-40-13.png",
+       "image": "mahadhan-13-40-13.jpg",
        "search_term": "mahadhan 13:40:13 mahadhan agrotech ltdherbicide"
     }
 ];
