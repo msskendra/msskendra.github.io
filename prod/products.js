@@ -102,7 +102,7 @@ var products = [
     },
     {
         "code": "M00002",
-        "name": "2-4-D 1LTR",
+        "name": "2-4-D 1L krishi rasayan",
         "company": "KRISHI RASAYAN P.LTD",
         "category": "HERBICIDE",
         "desc": "",
@@ -154,7 +154,7 @@ var products = [
     },
     {
         "code": "M00006",
-        "name": "2.4.D 250 ML ZURA  ",
+        "name": "2-4-D 250ML ZURA  ",
         "company": "ATUL LTD",
         "category": "HERBICIDE",
         "desc": "",
@@ -180,7 +180,7 @@ var products = [
     },
     {
         "code": "M00008",
-        "name": "2-4D 500 GRAM POWDER SALIX",
+        "name": "2-4-D 500 GRAM POWDER SALIX",
         "company": "ATUL LTD",
         "category": "HERBICIDE",
         "desc": "",
