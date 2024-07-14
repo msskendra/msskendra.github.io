@@ -619,5 +619,70 @@ var products = [
        "unit": "Unit",
        "image": "mahadhan-13-40-13.jpg",
        "search_term": "mahadhan 13:40:13 mahadhan agrotech ltdherbicide"
+    },
+    {
+       "code": "M00039",
+       "name": "CYDUS 1L (PARAQUAT DICHLORIDE 24% SL)",
+       "company": "ATUL LTD",
+       "category": "HERBICIDE",
+       "desc": "PARAQUAT DICHLORIDE 24% SL",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "cydus.png",
+       "search_term": "atul cydus 1l (paraquat dichloride 24% sl) atul ltdherbicide"
+    },
+    {
+       "code": "M00040",
+       "name": "CYDUS 500ml (PARAQUAT DICHLORIDE 24% SL)",
+       "company": "ATUL LTD",
+       "category": "HERBICIDE",
+       "desc": "PARAQUAT DICHLORIDE 24% SL",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "cydus.png",
+       "search_term": "atul cydus 500ml (paraquat dichloride 24% sl) atul ltdherbicide"
+    },
+     {
+       "code": "M00041",
+       "name": "CYDUS 250ml (PARAQUAT DICHLORIDE 24% SL)",
+       "company": "ATUL LTD",
+       "category": "HERBICIDE",
+       "desc": "PARAQUAT DICHLORIDE 24% SL",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "cydus.png",
+       "search_term": "atul cydus 1l (paraquat dichloride 24% sl) atul ltdherbicide"
+    },
+    {
+       "code": "M00042",
+       "name": "EFFICAX 50ml",
+       "company": "ATUL LTD",
+       "category": "STICKER",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "efficax.png",
+       "search_term": "efficax 50ml atul ltdsticker"
+    },
+     {
+       "code": "M00043",
+       "name": "FLAMEBERGE 250ml",
+       "company": "ADAMA LTD",
+       "category": "PGR",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "flameberge.png",
+       "search_term": "flameberge 250ml adama ltdpgr"
     }
 ];
