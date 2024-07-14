@@ -630,7 +630,7 @@ var products = [
        "cash_price": "",
        "credit_price": "",
        "unit": "Unit",
-       "image": "Cydus.png",
+       "image": "cydus.png",
        "search_term": "atul cydus 1l (paraquat dichloride 24% sl) atul ltdherbicide"
     },
     {
@@ -656,7 +656,7 @@ var products = [
        "cash_price": "",
        "credit_price": "",
        "unit": "Unit",
-       "image": "Cydus.png",
+       "image": "cydus.png",
        "search_term": "atul cydus 1l (paraquat dichloride 24% sl) atul ltdherbicide"
     },
     {
@@ -682,7 +682,7 @@ var products = [
        "cash_price": "",
        "credit_price": "",
        "unit": "Unit",
-       "image": "flameberge.png",
+       "image": "flamberge.png",
        "search_term": "flameberge 250ml adama ltdpgr"
     }
 ];
