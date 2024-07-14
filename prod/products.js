@@ -853,7 +853,7 @@ var products = [
        "unit": "Unit",
        "image": "solomon.png",
        "search_term": "solomon 250ml bayer ltdinsecticide"
-    }
+    },
     {
        "code": "M00057",
        "name": "REGENT ULTRA 1kg",
