@@ -111,7 +111,7 @@ var products = [
         "credit_price": "",
         "unit": "Unit",
         "image": "krishi rasayan kay-d 58 1L.png",
-        "search_term": "2-4-d  1ltrkrishi rasayan p.ltdherbicide"
+        "search_term": "2-4-d 1l krishi rasayan ltdherbicide"
     },
     {
         "code": "M00003",
