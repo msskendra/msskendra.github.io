@@ -646,7 +646,7 @@ var products = [
        "image": "cydus.png",
        "search_term": "atul cydus 500ml (paraquat dichloride 24% sl) atul ltdherbicide"
     },
-     {
+    {
        "code": "M00041",
        "name": "CYDUS 250ml (PARAQUAT DICHLORIDE 24% SL)",
        "company": "ATUL LTD",
@@ -672,7 +672,7 @@ var products = [
        "image": "efficax.png",
        "search_term": "efficax 50ml atul ltdsticker"
     },
-     {
+    {
        "code": "M00043",
        "name": "FLAMEBERGE 250ml",
        "company": "ADAMA LTD",
@@ -724,7 +724,7 @@ var products = [
        "image": "confidor.png",
        "search_term": "confidor 100ml bayer ltdinsecticide"
     },
-     {
+    {
        "code": "M00047",
        "name": "DECIS 100 50ml",
        "company": "BAYER LTD",
@@ -750,7 +750,7 @@ var products = [
        "image": "decis 100.png",
        "search_term": "decis 100 100ml bayer ltdinsecticide"
     }, 
-     {
+    {
        "code": "M00049",
        "name": "JUMP 2gm",
        "company": "BAYER LTD",
