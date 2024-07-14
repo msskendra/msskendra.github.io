@@ -630,7 +630,7 @@ var products = [
        "cash_price": "",
        "credit_price": "",
        "unit": "Unit",
-       "image": "cydus.png",
+       "image": "Cydus.png",
        "search_term": "atul cydus 1l (paraquat dichloride 24% sl) atul ltdherbicide"
     },
     {
@@ -656,7 +656,7 @@ var products = [
        "cash_price": "",
        "credit_price": "",
        "unit": "Unit",
-       "image": "cydus.png",
+       "image": "Cydus.png",
        "search_term": "atul cydus 1l (paraquat dichloride 24% sl) atul ltdherbicide"
     },
     {
