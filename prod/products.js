@@ -800,7 +800,7 @@ var products = [
        "credit_price": "",
        "unit": "Unit",
        "image": "nativo.png",
-       "search_term": "nativo 10gm bayer ltdinsecticide"
+       "search_term": "nativo 10gm bayer ltdfungicide"
     },
     {
        "code": "M00053",
@@ -813,7 +813,7 @@ var products = [
        "credit_price": "",
        "unit": "Unit",
        "image": "nativo.png",
-       "search_term": "nativo 100gm bayer ltdinsecticide"
+       "search_term": "nativo 100gm bayer ltdfungicide"
     },
     {
        "code": "M00054",
@@ -839,7 +839,7 @@ var products = [
        "credit_price": "",
        "unit": "Unit",
        "image": "sencor.png",
-       "search_term": "sencor bayer ltdinsecticide"
+       "search_term": "sencor bayer ltdherbicide"
     },
     {
        "code": "M00056",
@@ -878,6 +878,6 @@ var products = [
        "credit_price": "",
        "unit": "Unit",
        "image": "saathi.png",
-       "search_term": "saathi bayer ltdinsecticide"
+       "search_term": "saathi upl ltdherbicide"
     }
 ];
