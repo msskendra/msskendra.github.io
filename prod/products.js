@@ -905,5 +905,57 @@ var products = [
        "unit": "Unit",
        "image": "galigan.png",
        "search_term": "galigan adama india ltdherbicide"
-    } 
+    }, 
+    {
+       "code": "M00061",
+       "name": "BARAZIDE",
+       "company": "ADAMA INDIA LTD",
+       "category": "Insecticide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "barazidde.png",
+       "search_term": "barazide adama india ltdherbicide"
+    },
+    {
+       "code": "M00062",
+       "name": "ATRANEX",
+       "company": "ADAMA INDIA LTD",
+       "category": "Herbicide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "atranex.png",
+       "search_term": "atranex adama india ltdherbicide"
+    },
+    {
+       "code": "M00063",
+       "name": "CONEO-71",
+       "company": "ATUL LTD",
+       "category": "Herbicide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "coneo-71.png",
+       "search_term": "coneo-71 atul ltdherbicide"
+    },
+    {
+       "code": "M00064",
+       "name": "REEVA",
+       "company": "RALLIS INDIA LTD",
+       "category": "Insecticide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "reeva.png",
+       "search_term": "reeva rallis india ltdinsecticide"
+    }
 ];
