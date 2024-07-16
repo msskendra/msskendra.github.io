@@ -916,7 +916,7 @@ var products = [
        "cash_price": "",
        "credit_price": "",
        "unit": "Unit",
-       "image": "barazidde.png",
+       "image": "barazide.png",
        "search_term": "barazide adama india ltdherbicide"
     },
     {
