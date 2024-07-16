@@ -271,7 +271,7 @@ var products = [
     },
     {
         "code": "M00015",
-        "name": "AMNON 100GM",
+        "name": "AMNON 100gm",
         "company": "ADAMA  INDIA LTD",
         "category": "INSECTICIDE",
         "desc": "",
@@ -279,12 +279,12 @@ var products = [
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "adama-products.png",
+        "image": "amnon.png",
         "search_term": "amnon 100gmadama  india ltdinsecticide"
     },
     {
         "code": "M00016",
-        "name": "AMNON 50 GM.",
+        "name": "AMNON 50gm.",
         "company": "ADAMA  INDIA LTD",
         "category": "INSECTICIDE",
         "desc": "",
@@ -292,7 +292,7 @@ var products = [
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "adama-products.png",
+        "image": "amnon.png",
         "search_term": "amnon 50 gm.adama  india ltdinsecticide"
     },
     {
@@ -892,5 +892,18 @@ var products = [
        "unit": "Unit",
        "image": "narkis.png",
        "search_term": "narkis adama india ltdherbicide"
-    }
- ];
+    },
+    {
+       "code": "M00060",
+       "name": "GALIGAN",
+       "company": "ADAMA INDIA LTD",
+       "category": "Herbicide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "galigan.png",
+       "search_term": "galigan adama india ltdherbicide"
+    } 
+];
