@@ -129,7 +129,7 @@ var products = [
     {
         "code": "M00004",
         "name": "adama paranex 1L",
-        "company": "ADAMA LTD",
+        "company": "ADAMA INDIA LTD",
         "category": "HERBICIDE",
         "desc": "",
         "stock": "yes",
@@ -349,16 +349,16 @@ var products = [
     },
     {
         "code": "M00021",
-        "name": "ANTRACOL 100GM",
-        "company": "BAYER LTD",
-        "category": "FUNGICIDE",
+        "name": "WIRAZER",
+        "company": "ADAMA INDIA LTD",
+        "category": "Herbicide",
         "desc": "",
         "stock": "yes",
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "bayer-products.png",
-        "search_term": "antracol 100gmbayer ltdfungicide"
+        "image": "wirazer.png",
+        "search_term": "wirazer adama india ltdherbicide"
     },
     {
         "code": "M00022",
