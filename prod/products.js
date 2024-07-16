@@ -401,16 +401,16 @@ var products = [
     },
     {
         "code": "M00025",
-        "name": "AGADI 5KG",
+        "name": "suckgan",
         "company": "ADAMA  INDIA LTD",
         "category": "INSECTICIDE",
         "desc": "",
         "stock": "yes",
-        "cash_price": "330",
+        "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "agadi-5kg.jpg",
-        "search_term": "agadi 5kg insectside"
+        "image": "suckgan.png",
+        "search_term": "suckgan adama ltdinsectside"
     },
     {
         "code": "M00026",
@@ -675,7 +675,7 @@ var products = [
     {
        "code": "M00043",
        "name": "FLAMEBERGE 250ml",
-       "company": "ADAMA LTD",
+       "company": "ADAMA INDIA LTD",
        "category": "PGR",
        "desc": "",
        "stock": "yes",
@@ -683,7 +683,7 @@ var products = [
        "credit_price": "",
        "unit": "Unit",
        "image": "flamberge.png",
-       "search_term": "flameberge 250ml adama ltdpgr"
+       "search_term": "flameberge 250ml adama india ltdpgr"
     },
     {
        "code": "M00044",
@@ -879,5 +879,18 @@ var products = [
        "unit": "Unit",
        "image": "saathi.png",
        "search_term": "saathi upl ltdherbicide"
+    },
+    {
+       "code": "M00059",
+       "name": "NARKIS",
+       "company": "ADAMA INDIA LTD",
+       "category": "Herbicide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "narkis.png",
+       "search_term": "narkis adama india ltdherbicide"
     }
-];
+ ];
