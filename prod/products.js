@@ -1022,5 +1022,72 @@ var products = [
        "unit": "Unit",
        "image": "tafgor.png",
        "search_term": "tafgor tata india ltdinsecticide"
-    }, 
+    },
+    {
+       "code": "M00070",
+       "name": "ELETRON",
+       "company": "UPL LTD",
+       "category": "Insecticide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "electron.png",
+       "search_term": "electron upl ltdinsecticide"
+    },
+    {
+       "code": "M00071",
+       "name": "LANCERGOLD",
+       "company": "UPL LTD",
+       "category": "Insecticide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "lancergold.png",
+       "search_term": "lancergold upl ltdinsecticide"
+    },
+    {
+       "code": "M00072",
+       "name": "SAAF",
+       "company": "UPL LTD",
+       "category": "Fungicide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "fungicide.png",
+       "search_term": "saaf upl ltdinsecticide"
+    },
+    {
+       "code": "M00073",
+       "name": "TRISKELE",
+       "company": "UPL LTD",
+       "category": "Herbicidecide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "triskele.png",
+       "search_term": "triskele upl ltdherbicide"
+    },
+    {
+       "code": "M00074",
+       "name": "ZEBA",
+       "company": "UPL LTD",
+       "category": "Fertilizer",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "zeba.png",
+       "search_term": "zeba upl ltdfertilizer water absorber"
+    }
 ];
+    
+
