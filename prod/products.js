@@ -1059,8 +1059,8 @@ var products = [
        "cash_price": "",
        "credit_price": "",
        "unit": "Unit",
-       "image": "fungicide.png",
-       "search_term": "saaf upl ltdinsecticide"
+       "image": "saaf.png",
+       "search_term": "saaf upl ltdfungicide"
     },
     {
        "code": "M00073",
