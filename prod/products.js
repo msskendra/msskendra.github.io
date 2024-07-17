@@ -1001,7 +1001,7 @@ var products = [
        "code": "M00068",
        "name": "SURPLUS",
        "company": "RALLIS INDIA LTD",
-       "category": "MICRONUTRIENT FERTILIZER",
+       "category": "Micronutrient Fertilizer",
        "desc": "",
        "stock": "yes",
        "cash_price": "",
