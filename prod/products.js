@@ -674,7 +674,7 @@ var products = [
     },
     {
        "code": "M00043",
-       "name": "FLAMEBERGE 250ml",
+       "name": "FLAMEBERGE",
        "company": "ADAMA INDIA LTD",
        "category": "PGR",
        "desc": "",
@@ -683,7 +683,7 @@ var products = [
        "credit_price": "",
        "unit": "Unit",
        "image": "flamberge.png",
-       "search_term": "flameberge 250ml adama india ltdpgr"
+       "search_term": "flameberge adama india ltdpgr"
     },
     {
        "code": "M00044",
@@ -1321,5 +1321,124 @@ var products = [
        "unit": "Unit",
        "image": "riper.png",
        "search_term": "riper atul ltdfungicide"
-    }
+    },
+    {
+       "code": "M00093",
+       "name": "AGAS",
+       "company": "ADAMA INDIA LTD",
+       "category": "Insecticide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "agas.png",
+       "search_term": "agas adama india ltdinsecticide"
+    },
+    {
+       "code": "M00094",
+       "name": "CUSTODIA",
+       "company": "ADAMA INDIA LTD",
+       "category": "Fungicide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "custodia.png",
+       "search_term": "custodia adama india ltdfungicide"
+    },
+    {
+       "code": "M00095",
+       "name": "MAINEX EC",
+       "company": "ADAMA INDIA LTD",
+       "category": "Fungicide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "mainex ec.png",
+       "search_term": "mainex ec adama india ltdfungicide"
+    },
+    {
+       "code": "M00096",
+       "name": "NIMROD",
+       "company": "ADAMA INDIA LTD",
+       "category": "Fungicide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "nimrod.png",
+       "search_term": "nimrod adama india ltdfungicide"
+    },
+    {
+       "code": "M00097",
+       "name": "ORIUS (TEBUCONAZOLE 25.9% EC)",
+       "company": "ADAMA INDIA LTD",
+       "category": "Fungicide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "orius.png",
+       "search_term": "orius (tebuconazole 25.9% ec) adama india ltdfungicide"
+    },
+    {
+       "code": "M00098",
+       "name": "PREMAIN SUPER",
+       "company": "ADAMA INDIA LTD",
+       "category": "Insecticide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "premain super.png",
+       "search_term": "premain super adama india ltdfungicide"
+    },
+    {
+       "code": "M00099",
+       "name": "PREMAIN",
+       "company": "ADAMA INDIA LTD",
+       "category": "Insecticide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "premain.png",
+       "search_term": "premain adama india ltdfungicide"
+    },
+    {
+       "code": "M00100",
+       "name": "PROFIGAN PLUS",
+       "company": "ADAMA INDIA LTD",
+       "category": "Insecticide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "profigan plus.png",
+       "search_term": "profigan plus adama india ltdfungicide"
+    },
+    {
+       "code": "M00101",
+       "name": "SHAMIR",
+       "company": "ADAMA INDIA LTD",
+       "category": "Fungicide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "shamir.png",
+       "search_term": "shamir adama india ltdfungicide"
+    },
 ];
+    
+    
