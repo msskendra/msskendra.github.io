@@ -956,6 +956,71 @@ var products = [
        "credit_price": "",
        "unit": "Unit",
        "image": "reeva.png",
-       "search_term": "reeva rallis india ltdinsecticide"
-    }
+       "search_term": "reeva tata india ltdinsecticide"
+    },
+    {
+       "code": "M00065",
+       "name": "ATRATAF",
+       "company": "RALLIS INDIA LTD",
+       "category": "Herbicide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "atrataf.png",
+       "search_term": "atrataf tata india ltdherbicide"
+    },
+    {
+       "code": "M00066",
+       "name": "BAHAAR",
+       "company": "RALLIS INDIA LTD",
+       "category": "PGR",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "bahaar.png",
+       "search_term": "bahaar tata india ltdpgr"
+    },
+    {
+       "code": "M00067",
+       "name": "BLITOX",
+       "company": "RALLIS INDIA LTD",
+       "category": "Fungicide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "blitox.png",
+       "search_term": "blitox tata india ltdfungicide"
+    },
+    {
+       "code": "M00068",
+       "name": "SURPLUS",
+       "company": "RALLIS INDIA LTD",
+       "category": "MICRONUTRIENT FERTILIZER",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "surplus.png",
+       "search_term": "surplus tata india ltdmicronutrient fertilizer"
+    },
+    {
+       "code": "M00069",
+       "name": "TAFGOR",
+       "company": "RALLIS INDIA LTD",
+       "category": "Insecticide",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "tafgor.png",
+       "search_term": "tafgor tata india ltdinsecticide"
+    }, 
 ];
