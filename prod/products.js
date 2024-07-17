@@ -206,7 +206,7 @@ var products = [
     },
     {
         "code": "M00010",
-        "name": "ADRINO 100 GM ",
+        "name": "ADRINO 100gm (METRIBUZIN 70WP)",
         "company": "SYNGENTA LTD",
         "category": "HERBICIDE",
         "desc": "",
@@ -214,8 +214,8 @@ var products = [
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "syngenta-products.png",
-        "search_term": "adrino 100 gm syngenta ltdherbicide"
+        "image": "adrino.png",
+        "search_term": "adrino 100gm (metribuzin 70wp) syngenta ltdherbicide"
     },
     {
         "code": "M00011",
@@ -245,7 +245,7 @@ var products = [
     },
     {
         "code": "M00013",
-        "name": "ALIKA 100ML ",
+        "name": "ALIKA 40ml ",
         "company": "SYNGENTA LTD",
         "category": "INSECTICIDE",
         "desc": "",
@@ -253,12 +253,12 @@ var products = [
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "syngenta-products.png",
-        "search_term": "alika 100ml syngenta ltdinsecticide"
+        "image": "alika.png",
+        "search_term": "alika 40ml syngenta ltdinsecticide"
     },
     {
         "code": "M00014",
-        "name": "ALIKA 40 ML",
+        "name": "ALIKA 80ml",
         "company": "SYNGENTA LTD",
         "category": "INSECTICIDE",
         "desc": "",
@@ -266,8 +266,8 @@ var products = [
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "syngenta-products.png",
-        "search_term": "alika 40 mlsyngenta ltdinsecticide"
+        "image": "alika.png",
+        "search_term": "alika 80mlsyngenta ltdinsecticide"
     },
     {
         "code": "M00015",
