@@ -193,16 +193,16 @@ var products = [
     },
     {
         "code": "M00009",
-        "name": "2-4-D 500ML ",
-        "company": "GODREJ AGROTECH LTD",
-        "category": "HERBICIDE",
+        "name": "COSAYR",
+        "company": "ADAMA INDIA LTD",
+        "category": "Insecticide",
         "desc": "",
         "stock": "yes",
         "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
-        "image": "godrej-products.png",
-        "search_term": "2-4-d 500ml godrej agrotech ltdherbicide"
+        "image": "cosayr.png",
+        "search_term": "cosayr adama india ltdinsecticide"
     },
     {
         "code": "M00010",
