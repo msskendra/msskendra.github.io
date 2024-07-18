@@ -1439,6 +1439,95 @@ var products = [
        "image": "shamir.png",
        "search_term": "shamir adama india ltdfungicide"
     },
+    {
+       "code": "M00102",
+       "name": "12-61-0 (AMMONIUM PHOSPHATE)",
+       "company": "IFFCO LTD",
+       "category": "FERTILIZER",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "12-61-0.png",
+       "search_term": "12-61-0 (ammonium phosphate) iffco ltdfertilizer"
+    },
+    {
+       "code": "M00103",
+       "name": "17-44-0 (UREA PHOSPHATE)",
+       "company": "IFFCO LTD",
+       "category": "FERTILIZER",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "17-44-0.png",
+       "search_term": "17-44-0 (urea phosphate) iffco ltdfertilizer"
+    },
+    {
+       "code": "M00104",
+       "name": "NANO DAP",
+       "company": "IFFCO LTD",
+       "category": "FERTILIZER",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "nano dap.png",
+       "search_term": "nano dap iffco ltdfertilizer"
+    },
+    {
+       "code": "M00105",
+       "name": "NANO UREA",
+       "company": "IFFCO LTD",
+       "category": "FERTILIZER",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "nano urea.png",
+       "search_term": "nano urea iffco ltdfertilizer"
+    },
+    {
+       "code": "M00106",
+       "name": "NPK 19-19-19",
+       "company": "IFFCO LTD",
+       "category": "FERTILIZER",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "NPK 19-19-19.png",
+       "search_term": "npk 19-19-19 iffco ltdfertilizer"
+    },
+    {
+       "code": "M00107",
+       "name": "SAGRIKA GOLD",
+       "company": "IFFCO LTD",
+       "category": "FERTILIZER",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "sagrika gold.png",
+       "search_term": "sagrika gold iffco ltdfertilizer"
+    },
+    {
+       "code": "M00108",
+       "name": "SAGRIKA",
+       "company": "IFFCO LTD",
+       "category": "FERTILIZER",
+       "desc": "",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "sagrika.png",
+       "search_term": "sagrika iffco ltdfertilizer"
+    }
 ];
-    
-    
