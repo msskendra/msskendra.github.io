@@ -1515,7 +1515,7 @@ var products = [
        "credit_price": "",
        "unit": "Unit",
        "image": "sagarika gold.png",
-       "search_term": "sagrika gold iffco ltdfertilizer"
+       "search_term": "sagarika gold iffco ltdfertilizer"
     },
     {
        "code": "M00108",
@@ -1528,6 +1528,6 @@ var products = [
        "credit_price": "",
        "unit": "Unit",
        "image": "sagarika.png",
-       "search_term": "sagrika iffco ltdfertilizer"
+       "search_term": "sagarika iffco ltdfertilizer"
     }
 ];
