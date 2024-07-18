@@ -1605,7 +1605,7 @@ var products = [
        "cash_price": "",
        "credit_price": "",
        "unit": "Unit",
-       "image": "mahadhan zinc sulphate 5kg",
+       "image": "mahadhan zinc sulphate 5kg.png",
        "search_term": "zinc sulphate (5kg) mahadhan ltdfertilizer"
     },
     {
@@ -1618,7 +1618,7 @@ var products = [
        "cash_price": "",
        "credit_price": "",
        "unit": "Unit",
-       "image": "mahadhan-00-52-34",
+       "image": "mahadhan-00-52-34.png",
        "search_term": "mahadhan 00-52-34 (1kg/25kg) mahadhan ltdfertilizer"
     },
     {
@@ -1696,7 +1696,7 @@ var products = [
        "cash_price": "",
        "credit_price": "",
        "unit": "Unit",
-       "image": "mahadhan-calcium-nitrate",
+       "image": "mahadhan-calcium-nitrate.png",
        "search_term": "mahadhan calcium nitrate mahadhan ltdfertilizer"
     }
 ];
