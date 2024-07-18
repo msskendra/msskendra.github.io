@@ -1506,7 +1506,7 @@ var products = [
     },
     {
        "code": "M00107",
-       "name": "SAGRIKA GOLD",
+       "name": "SAGARIKA GOLD",
        "company": "IFFCO LTD",
        "category": "FERTILIZER",
        "desc": "",
@@ -1514,12 +1514,12 @@ var products = [
        "cash_price": "",
        "credit_price": "",
        "unit": "Unit",
-       "image": "sagrika gold.png",
+       "image": "sagarika gold.png",
        "search_term": "sagrika gold iffco ltdfertilizer"
     },
     {
        "code": "M00108",
-       "name": "SAGRIKA",
+       "name": "SAGARIKA",
        "company": "IFFCO LTD",
        "category": "FERTILIZER",
        "desc": "",
@@ -1527,7 +1527,7 @@ var products = [
        "cash_price": "",
        "credit_price": "",
        "unit": "Unit",
-       "image": "sagrika.png",
+       "image": "sagarika.png",
        "search_term": "sagrika iffco ltdfertilizer"
     }
 ];
