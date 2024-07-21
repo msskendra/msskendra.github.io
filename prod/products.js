@@ -1220,7 +1220,7 @@ var products = [
     },
     {
        "code": "M00085",
-       "name": "CONVO GLYPHOSATE 41% SL",
+       "name": "CONEO GLYPHOSATE 41% SL",
        "company": "ATUL LTD",
        "category": "Herbicide",
        "desc": "",
@@ -1228,8 +1228,8 @@ var products = [
        "cash_price": "",
        "credit_price": "",
        "unit": "Unit",
-       "image": "convo.png",
-       "search_term": "convo glyphosate 41% sl atul ltdherbicide"
+       "image": "coneo.png",
+       "search_term": "coneo glyphosate 41% sl atul ltdherbicide"
     },
     {
        "code": "M00086",
@@ -1904,7 +1904,7 @@ var products = [
        "cash_price": "",
        "credit_price": "",
        "unit": "Unit",
-       "image": "super n 1kg",
+       "image": "super n 1kg.png",
        "search_term": "super n 1kg nature care ltdfertilizer"
     },
     {
@@ -1956,7 +1956,7 @@ var products = [
        "cash_price": "",
        "credit_price": "",
        "unit": "Unit",
-       "image": "UAN 30%.png",
+       "image": "uan.png",
        "search_term": "uan 30% nature care ltdfertilizer"
     }
 ];
