@@ -1566,7 +1566,7 @@ var products = [
        "cash_price": "",
        "credit_price": "",
        "unit": "Unit",
-       "image": "mahadhan boron 20% spraing.png",
+       "image": "mahadhan boron spraing.png",
        "search_term": "mahadhan boran 20% spraying mahadhan ltdfertilizer"
     },
     {
