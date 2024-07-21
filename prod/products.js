@@ -1207,7 +1207,7 @@ var products = [
     },
     {
        "code": "M00084",
-       "name": "VESNIT",
+       "name": "VESNIT COMPLETE",
        "company": "BASF",
        "category": "Herbicide",
        "desc": "",
@@ -1216,7 +1216,7 @@ var products = [
        "credit_price": "",
        "unit": "Unit",
        "image": "vesnit.png",
-       "search_term": "vesnit basf herbicide"
+       "search_term": "vesnit complete basf herbicide"
     },
     {
        "code": "M00085",
