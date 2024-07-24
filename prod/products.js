@@ -501,7 +501,7 @@ var products = [
        "credit_price": "",
        "unit": "Unit",
        "image": "tata-contaf-100ml.png",
-       "search_term": "tata contaf 100ml tata ltdherbicide"
+       "search_term": "tata contaf 100ml tata ltdfungicide"
     },
     {
        "code": "M00032",
