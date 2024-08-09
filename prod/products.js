@@ -100,7 +100,7 @@ var products = [
         "category": "HERBICIDE",
         "desc": "",
         "stock": "yes",
-        "cash_price": "34",
+        "cash_price": "",
         "credit_price": "",
         "unit": "Unit",
         "image": "adama-2-4-D-Main-1L.png",
