@@ -55,6 +55,12 @@ function generateView(product) {
     html += '<h4 class="u-align-left u-product-control u-text u-text-3">';
     html += '<a title="' + product.name + '" class="u-product-title-link">' + product.name + '</a>';
     html += '</h4>';
+
+    var desc = product.desc;
+    if(desc && desc.length > 0) {
+        html += '<div class="u-align-left u-product-control u-product-desc u-text u-text-00">Description: ' + product.desc + '</div>';
+    }
+
     html += '<div class="u-align-left u-product-control u-product-desc u-text u-text-00">Company: ' + product.company + '</div>';
     html += '<div class="u-align-left u-product-control u-product-desc u-text u-text-00">Categoty: ' + camelCase(product.category) + '</div>';
     //html += '<div class="u-align-left u-product-control u-product-price u-product-price-1"></div>';
