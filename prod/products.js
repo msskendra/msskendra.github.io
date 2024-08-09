@@ -856,6 +856,19 @@ var products = [
     },
     {
        "code": "M00057",
+       "name": "BUONOS",
+       "company": "BAYER LTD",
+       "category": "Fungicide",
+       "desc": "Tebuconazole 38.39%w/w SC",
+       "stock": "yes",
+       "cash_price": "",
+       "credit_price": "",
+       "unit": "Unit",
+       "image": "buonos.png",
+       "search_term": "buonos bayer ltdfungicide"
+    },
+    {
+       "code": "M00058",
        "name": "REGENT ULTRA 1kg",
        "company": "BAYER LTD",
        "category": "Insecticide",
@@ -868,7 +881,7 @@ var products = [
        "search_term": "regent ultra 1kg bayer ltdinsecticide"
     },
     {
-       "code": "M00058",
+       "code": "M00059",
        "name": "SAATHI",
        "company": "UPL LTD",
        "category": "Herbicide",
@@ -881,7 +894,7 @@ var products = [
        "search_term": "saathi upl ltdherbicide"
     },
     {
-       "code": "M00059",
+       "code": "M00060",
        "name": "NARKIS",
        "company": "ADAMA INDIA LTD",
        "category": "Herbicide",
@@ -894,7 +907,7 @@ var products = [
        "search_term": "narkis adama india ltdherbicide"
     },
     {
-       "code": "M00060",
+       "code": "M00061",
        "name": "GALIGAN",
        "company": "ADAMA INDIA LTD",
        "category": "Herbicide",
@@ -907,7 +920,7 @@ var products = [
        "search_term": "galigan adama india ltdherbicide"
     }, 
     {
-       "code": "M00061",
+       "code": "M00062",
        "name": "BARAZIDE",
        "company": "ADAMA INDIA LTD",
        "category": "Insecticide",
@@ -920,7 +933,7 @@ var products = [
        "search_term": "barazide adama india ltdherbicide"
     },
     {
-       "code": "M00062",
+       "code": "M00063",
        "name": "ATRANEX",
        "company": "ADAMA INDIA LTD",
        "category": "Herbicide",
@@ -933,7 +946,7 @@ var products = [
        "search_term": "atranex adama india ltdherbicide"
     },
     {
-       "code": "M00063",
+       "code": "M00064",
        "name": "CONEO-71",
        "company": "ATUL LTD",
        "category": "Herbicide",
@@ -946,7 +959,7 @@ var products = [
        "search_term": "coneo-71 atul ltdherbicide"
     },
     {
-       "code": "M00064",
+       "code": "M00065",
        "name": "REEVA",
        "company": "RALLIS INDIA LTD",
        "category": "Insecticide",
@@ -959,7 +972,7 @@ var products = [
        "search_term": "reeva tata india ltdinsecticide"
     },
     {
-       "code": "M00065",
+       "code": "M00066",
        "name": "ATRATAF",
        "company": "RALLIS INDIA LTD",
        "category": "Herbicide",
@@ -972,7 +985,7 @@ var products = [
        "search_term": "atrataf tata india ltdherbicide"
     },
     {
-       "code": "M00066",
+       "code": "M00067",
        "name": "BAHAAR",
        "company": "RALLIS INDIA LTD",
        "category": "PGR",
@@ -985,7 +998,7 @@ var products = [
        "search_term": "bahaar tata india ltdpgr"
     },
     {
-       "code": "M00067",
+       "code": "M00068",
        "name": "BLITOX",
        "company": "RALLIS INDIA LTD",
        "category": "Fungicide",
@@ -998,7 +1011,7 @@ var products = [
        "search_term": "blitox tata india ltdfungicide"
     },
     {
-       "code": "M00068",
+       "code": "M00069",
        "name": "SURPLUS",
        "company": "RALLIS INDIA LTD",
        "category": "Micronutrient Fertilizer",
@@ -1011,7 +1024,7 @@ var products = [
        "search_term": "surplus tata india ltdmicronutrient fertilizer"
     },
     {
-       "code": "M00069",
+       "code": "M00070",
        "name": "TAFGOR",
        "company": "RALLIS INDIA LTD",
        "category": "Insecticide",
@@ -1024,7 +1037,7 @@ var products = [
        "search_term": "tafgor tata india ltdinsecticide"
     },
     {
-       "code": "M00070",
+       "code": "M00071",
        "name": "ELETRON",
        "company": "UPL LTD",
        "category": "Insecticide",
@@ -1037,7 +1050,7 @@ var products = [
        "search_term": "electron upl ltdinsecticide"
     },
     {
-       "code": "M00071",
+       "code": "M00072",
        "name": "LANCERGOLD",
        "company": "UPL LTD",
        "category": "Insecticide",
@@ -1050,7 +1063,7 @@ var products = [
        "search_term": "lancergold upl ltdinsecticide"
     },
     {
-       "code": "M00072",
+       "code": "M00073",
        "name": "SAAF",
        "company": "UPL LTD",
        "category": "Fungicide",
@@ -1063,7 +1076,7 @@ var products = [
        "search_term": "saaf upl ltdfungicide"
     },
     {
-       "code": "M00073",
+       "code": "M00074",
        "name": "TRISKELE",
        "company": "UPL LTD",
        "category": "Herbicidecide",
@@ -1076,7 +1089,7 @@ var products = [
        "search_term": "triskele upl ltdherbicide"
     },
     {
-       "code": "M00074",
+       "code": "M00075",
        "name": "ZEBA",
        "company": "UPL LTD",
        "category": "Fertilizer",
@@ -1089,7 +1102,7 @@ var products = [
        "search_term": "zeba upl ltdfertilizer water absorber"
     },
     {
-       "code": "M00075",
+       "code": "M00076",
        "name": "ACROBAT",
        "company": "BASF",
        "category": "Fungicide",
@@ -1102,7 +1115,7 @@ var products = [
        "search_term": "acrobat basf fungicide"
     },
     {
-       "code": "M00076",
+       "code": "M00077",
        "name": "CABRIO TOP",
        "company": "BASF",
        "category": "Fungicide",
@@ -1115,7 +1128,7 @@ var products = [
        "search_term": "cabrio top basf fungicide"
     },
     {
-       "code": "M00077",
+       "code": "M00078",
        "name": "EXPONUS",
        "company": "BASF",
        "category": "Insecticide",
@@ -1128,7 +1141,7 @@ var products = [
        "search_term": "exponus basf insecticide"
     },
     {
-       "code": "M00078",
+       "code": "M00079",
        "name": "INTREPID",
        "company": "BASF",
        "category": "Insecticide",
@@ -1141,7 +1154,7 @@ var products = [
        "search_term": "intrepid basf insecticide"
     },
     {
-       "code": "M00079",
+       "code": "M00080",
        "name": "LIBREL TMX 2",
        "company": "BASF",
        "category": "Fertilizer",
@@ -1154,7 +1167,7 @@ var products = [
        "search_term": "librel tmx 2 basf fertilizer"
     },
     {
-       "code": "M00080",
+       "code": "M00081",
        "name": "LIHOCIN",
        "company": "BASF",
        "category": "PGR",
@@ -1167,7 +1180,7 @@ var products = [
        "search_term": "lihocin basf pgr"
     },
     {
-       "code": "M00081",
+       "code": "M00082",
        "name": "MERIVON",
        "company": "BASF",
        "category": "Fungicide",
@@ -1180,7 +1193,7 @@ var products = [
        "search_term": "merivon basf fungicide"
     },
     {
-       "code": "M00082",
+       "code": "M00083",
        "name": "POLYRAM",
        "company": "BASF",
        "category": "Fungicide",
@@ -1193,7 +1206,7 @@ var products = [
        "search_term": "polyram basf fungicide"
     },
     {
-       "code": "M00083",
+       "code": "M00084",
        "name": "PRIAXOR",
        "company": "BASF",
        "category": "Fungicide",
@@ -1206,7 +1219,7 @@ var products = [
        "search_term": "priaxor basf fungicide"
     },
     {
-       "code": "M00084",
+       "code": "M00085",
        "name": "VESNIT COMPLETE",
        "company": "BASF",
        "category": "Herbicide",
@@ -1219,7 +1232,7 @@ var products = [
        "search_term": "vesnit complete basf herbicide"
     },
     {
-       "code": "M00085",
+       "code": "M00086",
        "name": "CONEO GLYPHOSATE 41% SL",
        "company": "ATUL LTD",
        "category": "Herbicide",
@@ -1232,7 +1245,7 @@ var products = [
        "search_term": "coneo glyphosate 41% sl atul ltdherbicide"
     },
     {
-       "code": "M00086",
+       "code": "M00087",
        "name": "LEPTO 10gm",
        "company": "ATUL LTD",
        "category": "Insecticide",
@@ -1245,7 +1258,7 @@ var products = [
        "search_term": "lepto 10gm atul ltdinsecticide"
     },
     {
-       "code": "M00087",
+       "code": "M00088",
        "name": "LEPTO 50gm",
        "company": "ATUL LTD",
        "category": "Insecticide",
@@ -1258,7 +1271,7 @@ var products = [
        "search_term": "lepto 50gm atul ltdinsecticide"
     },
     {
-       "code": "M00088",
+       "code": "M00089",
        "name": "LEPTO 100gm",
        "company": "ATUL LTD",
        "category": "Insecticide",
@@ -1271,7 +1284,7 @@ var products = [
        "search_term": "lepto 100gm atul ltdinsecticide"
     },
     {
-       "code": "M00089",
+       "code": "M00090",
        "name": "LEPTO 250gm",
        "company": "ATUL LTD",
        "category": "Insecticide",
@@ -1284,7 +1297,7 @@ var products = [
        "search_term": "lepto 250gm atul ltdinsecticide"
     },
     {
-       "code": "M00090",
+       "code": "M00091",
        "name": "MONIL 1kg (FLIPRONIL 0.3% GR)",
        "company": "ATUL LTD",
        "category": "Insecticide",
@@ -1297,7 +1310,7 @@ var products = [
        "search_term": "monil 1kg (flipronil 0.3% gr) atul ltdinsecticide"
     },
     {
-       "code": "M00091",
+       "code": "M00092",
        "name": "MONIL 5kg (FLIPRONIL 0.3% GR)",
        "company": "ATUL LTD",
        "category": "Insecticide",
@@ -1310,7 +1323,7 @@ var products = [
        "search_term": "monil 5kg (flipronil 0.3% gr) atul ltdinsecticide"
     },
     {
-       "code": "M00092",
+       "code": "M00093",
        "name": "RIPER",
        "company": "ATUL LTD",
        "category": "Fungicide",
@@ -1323,7 +1336,7 @@ var products = [
        "search_term": "riper atul ltdfungicide"
     },
     {
-       "code": "M00093",
+       "code": "M00094",
        "name": "AGAS",
        "company": "ADAMA INDIA LTD",
        "category": "Insecticide",
@@ -1336,7 +1349,7 @@ var products = [
        "search_term": "agas adama india ltdinsecticide"
     },
     {
-       "code": "M00094",
+       "code": "M00095",
        "name": "CUSTODIA",
        "company": "ADAMA INDIA LTD",
        "category": "Fungicide",
@@ -1349,7 +1362,7 @@ var products = [
        "search_term": "custodia adama india ltdfungicide"
     },
     {
-       "code": "M00095",
+       "code": "M00096",
        "name": "MAINEX EC",
        "company": "ADAMA INDIA LTD",
        "category": "Fungicide",
@@ -1362,7 +1375,7 @@ var products = [
        "search_term": "mainex ec adama india ltdfungicide"
     },
     {
-       "code": "M00096",
+       "code": "M00097",
        "name": "NIMROD",
        "company": "ADAMA INDIA LTD",
        "category": "Fungicide",
@@ -1375,7 +1388,7 @@ var products = [
        "search_term": "nimrod adama india ltdfungicide"
     },
     {
-       "code": "M00097",
+       "code": "M00098",
        "name": "ORIUS (TEBUCONAZOLE 25.9% EC)",
        "company": "ADAMA INDIA LTD",
        "category": "Fungicide",
@@ -1388,7 +1401,7 @@ var products = [
        "search_term": "orius (tebuconazole 25.9% ec) adama india ltdfungicide"
     },
     {
-       "code": "M00098",
+       "code": "M00099",
        "name": "PREMAIN SUPER",
        "company": "ADAMA INDIA LTD",
        "category": "Insecticide",
@@ -1401,7 +1414,7 @@ var products = [
        "search_term": "premain super adama india ltdfungicide"
     },
     {
-       "code": "M00099",
+       "code": "M00100",
        "name": "PREMAIN",
        "company": "ADAMA INDIA LTD",
        "category": "Insecticide",
@@ -1414,7 +1427,7 @@ var products = [
        "search_term": "premain adama india ltdfungicide"
     },
     {
-       "code": "M00100",
+       "code": "M00101",
        "name": "PROFIGAN PLUS",
        "company": "ADAMA INDIA LTD",
        "category": "Insecticide",
@@ -1427,7 +1440,7 @@ var products = [
        "search_term": "profigan plus adama india ltdfungicide"
     },
     {
-       "code": "M00101",
+       "code": "M00102",
        "name": "SHAMIR",
        "company": "ADAMA INDIA LTD",
        "category": "Fungicide",
@@ -1440,7 +1453,7 @@ var products = [
        "search_term": "shamir adama india ltdfungicide"
     },
     {
-       "code": "M00102",
+       "code": "M00103",
        "name": "12-61-0 (AMMONIUM PHOSPHATE)",
        "company": "IFFCO LTD",
        "category": "FERTILIZER",
@@ -1453,7 +1466,7 @@ var products = [
        "search_term": "12-61-0 (ammonium phosphate) iffco ltdfertilizer"
     },
     {
-       "code": "M00103",
+       "code": "M00104",
        "name": "17-44-0 (UREA PHOSPHATE)",
        "company": "IFFCO LTD",
        "category": "FERTILIZER",
@@ -1466,7 +1479,7 @@ var products = [
        "search_term": "17-44-0 (urea phosphate) iffco ltdfertilizer"
     },
     {
-       "code": "M00104",
+       "code": "M00105",
        "name": "NANO DAP",
        "company": "IFFCO LTD",
        "category": "FERTILIZER",
@@ -1479,7 +1492,7 @@ var products = [
        "search_term": "nano dap iffco ltdfertilizer"
     },
     {
-       "code": "M00105",
+       "code": "M00106",
        "name": "NANO UREA",
        "company": "IFFCO LTD",
        "category": "FERTILIZER",
@@ -1492,7 +1505,7 @@ var products = [
        "search_term": "nano urea iffco ltdfertilizer"
     },
     {
-       "code": "M00106",
+       "code": "M00107",
        "name": "NPK 19-19-19",
        "company": "IFFCO LTD",
        "category": "FERTILIZER",
@@ -1505,7 +1518,7 @@ var products = [
        "search_term": "npk 19-19-19 iffco ltdfertilizer"
     },
     {
-       "code": "M00107",
+       "code": "M00108",
        "name": "SAGARIKA GOLD",
        "company": "IFFCO LTD",
        "category": "FERTILIZER",
@@ -1518,7 +1531,7 @@ var products = [
        "search_term": "sagarika gold iffco ltdfertilizer"
     },
     {
-       "code": "M00108",
+       "code": "M00109",
        "name": "SAGARIKA",
        "company": "IFFCO LTD",
        "category": "FERTILIZER",
@@ -1531,7 +1544,7 @@ var products = [
        "search_term": "sagarika iffco ltdfertilizer"
     },
     {
-       "code": "M00109",
+       "code": "M00110",
        "name": "BENSULF",
        "company": "MAHADHAN LTD",
        "category": "FERTILIZER",
@@ -1544,7 +1557,7 @@ var products = [
        "search_term": "bensulf mahadhan ltdfertilizer"
     },
     {
-       "code": "M00110",
+       "code": "M00111",
        "name": "FLOWERING SPECIAL",
        "company": "MAHADHAN LTD",
        "category": "FERTILIZER",
@@ -1557,7 +1570,7 @@ var products = [
        "search_term": "flowering special mahadhan ltdfertilizer"
     },
     {
-       "code": "M00111",
+       "code": "M00112",
        "name": "BORON 20% SPRAYING",
        "company": "MAHADHAN LTD",
        "category": "FERTILIZER",
@@ -1570,7 +1583,7 @@ var products = [
        "search_term": "mahadhan boran 20% spraying mahadhan ltdfertilizer"
     },
     {
-       "code": "M00112",
+       "code": "M00113",
        "name": "BORON SOIL APPLICATION",
        "company": "MAHADHAN LTD",
        "category": "FERTILIZER",
@@ -1583,7 +1596,7 @@ var products = [
        "search_term": "boron soil application mahadhan ltdfertilizer"
     },
     {
-       "code": "M00113",
+       "code": "M00114",
        "name": "MAHADHAN SHINE",
        "company": "MAHADHAN LTD",
        "category": "FERTILIZER",
@@ -1596,7 +1609,7 @@ var products = [
        "search_term": "mahadhan shine mahadhan ltdfertilizer"
     },
     {
-       "code": "M00114",
+       "code": "M00115",
        "name": "ZINC SULPHATE (5KG)",
        "company": "MAHADHAN LTD",
        "category": "FERTILIZER",
@@ -1609,7 +1622,7 @@ var products = [
        "search_term": "zinc sulphate (5kg) mahadhan ltdfertilizer"
     },
     {
-       "code": "M00115",
+       "code": "M00116",
        "name": "MAHADHAN 00-52-34 (1KG/25KG)",
        "company": "MAHADHAN LTD",
        "category": "FERTILIZER",
@@ -1622,7 +1635,7 @@ var products = [
        "search_term": "mahadhan 00-52-34 (1kg/25kg) mahadhan ltdfertilizer"
     },
     {
-       "code": "M00116",
+       "code": "M00117",
        "name": "MAHADHAN 0-0-50 (1KG/25KG)",
        "company": "MAHADHAN LTD",
        "category": "FERTILIZER",
@@ -1635,7 +1648,7 @@ var products = [
        "search_term": "mahadhan 0-0-50 (1kg/25kg) mahadhan ltdfertilizer"
     },
     {
-       "code": "M00117",
+       "code": "M00118",
        "name": "MAHADHAN 12-61-00 (1KG/25KG)",
        "company": "MAHADHAN LTD",
        "category": "FERTILIZER",
@@ -1648,7 +1661,7 @@ var products = [
        "search_term": "mahadhan 12-61-00 (1kg/25kg) mahadhan ltdfertilizer"
     },
     {
-       "code": "M00118",
+       "code": "M00119",
        "name": "MAHADHAN 13-00-45 (1KG/25KG)",
        "company": "MAHADHAN LTD",
        "category": "FERTILIZER",
@@ -1661,7 +1674,7 @@ var products = [
        "search_term": "mahadhan 13-00-45 (1kg/25kg) mahadhan ltdfertilizer"
     },
     {
-       "code": "M00119",
+       "code": "M00120",
        "name": "MAHADHAN 13-40-13 (1KG/25KG)",
        "company": "MAHADHAN LTD",
        "category": "FERTILIZER",
@@ -1674,7 +1687,7 @@ var products = [
        "search_term": "mahadhan 13-40-13 (1kg/25kg) mahadhan ltdfertilizer"
     },
     {
-       "code": "M00120",
+       "code": "M00121",
        "name": "MAHADHAN 19-19-19 (1KG/25KG)",
        "company": "MAHADHAN LTD",
        "category": "FERTILIZER",
@@ -1687,7 +1700,7 @@ var products = [
        "search_term": "mahadhan 19-19-19 (1kg/25kg) mahadhan ltdfertilizer"
     },
     {
-       "code": "M00121",
+       "code": "M00122",
        "name": "MAHADHAN CALCIUM NITRATE",
        "company": "MAHADHAN LTD",
        "category": "FERTILIZER",
@@ -1700,7 +1713,7 @@ var products = [
        "search_term": "mahadhan calcium nitrate mahadhan ltdfertilizer"
     },
     {
-       "code": "M00122",
+       "code": "M00123",
        "name": "ATTRAPS FRUIT FLY",
        "company": "NATURE CARE LTD",
        "category": "Pesticide",
@@ -1713,7 +1726,7 @@ var products = [
        "search_term": "attraps fruit fly nature care ltdpesticide"
     },
     {
-       "code": "M00123",
+       "code": "M00124",
        "name": "CROP SILICA (25KG SILICON)",
        "company": "NATURE CARE LTD",
        "category": "Fertilizer",
@@ -1726,7 +1739,7 @@ var products = [
        "search_term": "crop silica (25kg silicon) nature care ltdfertilizer"
     },
     {
-       "code": "M00124",
+       "code": "M00125",
        "name": "GREEN HARVEST 40KG",
        "company": "NATURE CARE LTD",
        "category": "Fertilizer",
@@ -1739,7 +1752,7 @@ var products = [
        "search_term": "green harvest 40kg nature care ltdfertilizer"
     },
     {
-       "code": "M00125",
+       "code": "M00126",
        "name": "GREEN HARVEST SPECIAL 40KG",
        "company": "NATURE CARE LTD",
        "category": "Fertilizer",
@@ -1752,7 +1765,7 @@ var products = [
        "search_term": "green harvest special 40kg nature care ltdfertilizer"
     },
     {
-       "code": "M00126",
+       "code": "M00127",
        "name": "GRUB GUARD (1.5KG/3KG)",
        "company": "NATURE CARE LTD",
        "category": "Bio fertilizer",
@@ -1765,7 +1778,7 @@ var products = [
        "search_term": "grub guard (1.5kg/3kg) nature care ltdfertilizer"
     },
     {
-       "code": "M00127",
+       "code": "M00128",
        "name": "NUTRIWIN COMBI CHEL (100gm/250gm)",
        "company": "NATURE CARE LTD",
        "category": "Fertilizer",
@@ -1778,7 +1791,7 @@ var products = [
        "search_term": "nutriwin combi chel (100gm/250gm) nature care ltdfertilizer"
     },
     {
-       "code": "M00128",
+       "code": "M00129",
        "name": "NUTRIWIN DF 2KG",
        "company": "NATURE CARE LTD",
        "category": "Fertilizer",
@@ -1791,7 +1804,7 @@ var products = [
        "search_term": "nutriwin df 2kg nature care ltdfertilizer"
     },
     {
-       "code": "M00129",
+       "code": "M00130",
        "name": "NUTRIWIN DF CHEL",
        "company": "NATURE CARE LTD",
        "category": "Fertilizer",
@@ -1804,7 +1817,7 @@ var products = [
        "search_term": "nutriwin df chel nature care ltdfertilizer"
     },
     {
-       "code": "M00130",
+       "code": "M00131",
        "name": "PRUTHVI RICH K-50",
        "company": "NATURE CARE LTD",
        "category": "Fertilizer",
@@ -1817,7 +1830,7 @@ var products = [
        "search_term": "pruthvi rich k-50 nature care ltdfertilizer"
     },
     {
-       "code": "M00131",
+       "code": "M00132",
        "name": "PRUTHVI RICH 10-34-00",
        "company": "NATURE CARE LTD",
        "category": "Fertilizer",
@@ -1830,7 +1843,7 @@ var products = [
        "search_term": "pruthvi rich 10-34-00 nature care ltdfertilizer"
     },
     {
-       "code": "M00132",
+       "code": "M00133",
        "name": "PRUTHVI RICH 20-50-00",
        "company": "NATURE CARE LTD",
        "category": "Fertilizer",
@@ -1843,7 +1856,7 @@ var products = [
        "search_term": "pruthvi rich 20-50-00 nature care ltdfertilizer"
     },
     {
-       "code": "M00133",
+       "code": "M00134",
        "name": "PRUTHVI RICH 00-24-24",
        "company": "NATURE CARE LTD",
        "category": "Fertilizer",
@@ -1856,7 +1869,7 @@ var products = [
        "search_term": "pruthvi rich 00-24-24 nature care ltdfertilizer"
     },
     {
-       "code": "M00134",
+       "code": "M00135",
        "name": "RECHARGE HUMIC",
        "company": "NATURE CARE LTD",
        "category": "Fertilizer",
@@ -1869,7 +1882,7 @@ var products = [
        "search_term": "recharge humic nature care ltdfertilizer"
     },
     {
-       "code": "M00135",
+       "code": "M00136",
        "name": "SARATHI 40KG SILICON",
        "company": "NATURE CARE LTD",
        "category": "Fertilizer",
@@ -1882,7 +1895,7 @@ var products = [
        "search_term": "sarathi 40kg silicon nature care ltdfertilizer"
     },
     {
-       "code": "M00136",
+       "code": "M00137",
        "name": "SUPER K 1KG",
        "company": "NATURE CARE LTD",
        "category": "Bio fertilizer",
@@ -1895,7 +1908,7 @@ var products = [
        "search_term": "super k 1kg nature care ltdfertilizer"
     },
     {
-       "code": "M00137",
+       "code": "M00138",
        "name": "SUPER N 1KG",
        "company": "NATURE CARE LTD",
        "category": "Bio fertilizer",
@@ -1908,7 +1921,7 @@ var products = [
        "search_term": "super n 1kg nature care ltdfertilizer"
     },
     {
-       "code": "M00138",
+       "code": "M00139",
        "name": "SUPER ORA",
        "company": "NATURE CARE LTD",
        "category": "Fertilizer",
@@ -1921,7 +1934,7 @@ var products = [
        "search_term": "supre ora nature care ltdfertilizer"
     },
     {
-       "code": "M00139",
+       "code": "M00140",
        "name": "SUPER P 1KG",
        "company": "NATURE CARE LTD",
        "category": "Bio fertilizer",
@@ -1934,7 +1947,7 @@ var products = [
        "search_term": "super p 1kg nature care ltdfertilizer"
     },
     {
-       "code": "M00140",
+       "code": "M00141",
        "name": "SUPER TRICHIO 1KG",
        "company": "NATURE CARE LTD",
        "category": "Bio fertilizer",
@@ -1947,7 +1960,7 @@ var products = [
        "search_term": "super trichio 1kg nature care ltdfertilizer"
     },
     {
-       "code": "M00141",
+       "code": "M00142",
        "name": "UAN 30%",
        "company": "NATURE CARE LTD",
        "category": "Fertilizer",
